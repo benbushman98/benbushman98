@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### I'm currently a Network Administrator while learning full stack web development through the University of Utah.
+
+
 <!--
 **benbushman98/benbushman98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
