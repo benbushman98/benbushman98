@@ -1,8 +1,6 @@
 ![read me banner.](./header.png)
 
-## My work is one of my hobbies!
-
----
+## I stated playing with computers when I was 2 years old. Following in the foot steps of my father, I've taken a passion for all things tech related. Getting started in IT began with working at a computer hardware store, then moving into network administrating and I've now taken all that I have learned and am applying my skills to web development. 
 
 - 🌍 I live in Utah, USA
 - 🔭 I’m currently working at Network Providers Inc.
