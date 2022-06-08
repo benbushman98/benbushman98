@@ -1,24 +1,11 @@
 ![read me banner.](./header.png)
 
-## My dream is to work remote from wherever I want to be that day. 
-I'm currently a Network Administrator while learning full stack web development through the University of Utah.
+## My work is one of my hobbies!
 
 ---
 
 - 🌍 I live in Utah, USA
 - 🔭 I’m currently working at Network Providers Inc.
+- 💬 In school working on Full Stack Web Development
 - 📫 How to reach me: benbushman98@gmail.com
-
-
-<!--
-Here are some ideas to get you started:
-
- ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I love fixing cars.
