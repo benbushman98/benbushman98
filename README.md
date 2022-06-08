@@ -1,4 +1,4 @@
-![read me banner.](./heade.png)
+![read me banner.](./header.png)
 
 ## My dream is to work remote from wherever I want to be that day. 
 I'm currently a Network Administrator while learning full stack web development through the University of Utah.
