@@ -10,7 +10,7 @@ I'm currently a Network Administrator while learning full stack web development 
 - 📫 How to reach me: benbushman98@gmail.com
 
 
-
+<!--
 Here are some ideas to get you started:
 
  ...
