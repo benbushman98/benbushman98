@@ -1,5 +1,5 @@
 ### Hi there 👋
-I love all things IT
+# I love all things IT.
 
 I'm currently a Network Administrator while learning full stack web development through the University of Utah.
 
