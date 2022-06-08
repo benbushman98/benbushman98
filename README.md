@@ -1,5 +1,4 @@
-# Hi there, 
-My name is Benjamin Bushman
+![readme-banner](https://user-images.githubusercontent.com/76189854/159186110-f0d8071f-b7d1-4c6a-9a2d-8e214a66bb6b.png)
 
 ## My dream is to work remote from wherever I want to be that day. 
 I'm currently a Network Administrator while learning full stack web development through the University of Utah.
