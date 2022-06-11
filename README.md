@@ -2,7 +2,7 @@
 
 ## "We cannot solve our problems with the same thinking we used when we created them." - Albert Einstein
 
-I started playing with computers when I was 2 years old. Following in the foot steps of my father, I've taken a passion for all things tech related. Getting started in IT began with working at a computer hardware store, then moving into network administrating and I've now taken all that I have learned and am applying my skills to web development. 
+I started playing with computers when I was 2 years old. Following in the footsteps of my father, I've taken a passion for all things tech related. Getting started in IT began with working at a computer hardware store, then moving into network administrating and I've now taken all that I have learned and am applying my skills to web development. 
 
 
 - 🌍 I live in Utah, USA
