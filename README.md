@@ -5,7 +5,7 @@
 I started playing with computers when I was 2 years old. Following in the footsteps of my father, I've taken a passion for all things tech related. Getting started in IT began with working at a computer hardware store, then moving into network administrating and I've now taken all that I have learned and am applying my skills to web development. 
 
 - 🕑 Time Spent Coding
-[![wakatime](https://wakatime.com/badge/user/d5bf7d44-40df-44fa-8584-1d216fc91153.svg)](https://wakatime.com/@d5bf7d44-40df-44fa-8584-1d216fc91153)
+- [![wakatime](https://wakatime.com/badge/user/d5bf7d44-40df-44fa-8584-1d216fc91153.svg)](https://wakatime.com/@d5bf7d44-40df-44fa-8584-1d216fc91153)
 - 🌍 I live in Utah, USA
 - 🔭 I’m currently working at Network Providers Inc.
 - 💬 In school working on Full Stack Web Development
