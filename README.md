@@ -6,7 +6,7 @@ I started playing with computers when I was 2 years old. Following in the footst
 
 
 ### Checkout my profile on WakaTime
-[![wakatime](https://wakatime.com/badge/user/d5bf7d44-40df-44fa-8584-1d216fc91153.svg)](https://wakatime.com/@d5bf7d44-40df-44fa-8584-1d216fc91153){:target="_blank" rel="noopener"}
+[![wakatime](https://wakatime.com/badge/user/d5bf7d44-40df-44fa-8584-1d216fc91153.svg)]{:target="_blank" rel="noopener"}(https://wakatime.com/@d5bf7d44-40df-44fa-8584-1d216fc91153)
 
 - 🌍 I live in Utah, USA
 - 🔭 I’m currently working at Network Providers Inc.
