@@ -14,4 +14,4 @@ I started playing with computers when I was 2 years old. Following in the footst
 - 📫 How to reach me: benbushman98@gmail.com
 - ⚡ Fun fact: I love fixing cars.
 
-![Profile Views](https://hit.yhype.me/github/benbushman98?user_id=105658915)
+![Profile Views](https://hit.yhype.me/github/profile?user_id=105658915)
