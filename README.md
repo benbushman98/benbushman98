@@ -13,3 +13,5 @@ I started playing with computers when I was 2 years old. Following in the footst
 - 💬 In school working on Full Stack Web Development
 - 📫 How to reach me: benbushman98@gmail.com
 - ⚡ Fun fact: I love fixing cars.
+
+![](https://hit.yhype.me/github/benbushman98?user_id=105658915)
