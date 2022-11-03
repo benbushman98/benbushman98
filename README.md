@@ -17,5 +17,4 @@ I started playing with computers when I was 2 years old. Following in the footst
 ### Profile Views
 <img src="https://komarev.com/ghpvc/?username=benbushman98&style=flat-square&color=blue" alt=""/>
 
-### Languages
-<a href="https://github.com/benbushman98" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbushman98&langs_count=10&layout=compact&title_color=474647&text_color=474647&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### <a href="https://github.com/benbushman98" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbushman98&langs_count=10&layout=compact&title_color=474647&text_color=474647&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Languages" alt="Languages" /></a>
