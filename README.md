@@ -16,7 +16,6 @@ I started playing with computers when I was 2 years old. Following in the footst
 
 ![Profile Views](https://hit.yhype.me/github/profile?user_id=105658915)
 
-</div>
-  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=benbushman98&style=flat-square&color=blue" alt=""/>
-  </div>
+### GitHub analytics provided by: https://yhype.me/
+#### Profile Views
+<img src="https://komarev.com/ghpvc/?username=benbushman98&style=flat-square&color=blue" alt=""/>
