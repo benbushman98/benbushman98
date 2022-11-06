@@ -1,4 +1,6 @@
+<p align="center">
 ![read me banner.](./header.png)
+</p>
 
 ## "We cannot solve our problems with the same thinking we used when we created them." - Albert Einstein
 
