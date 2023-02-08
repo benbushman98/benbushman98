@@ -8,11 +8,6 @@ I started playing with computers when I was 2 years old. Following in the footst
 
 ----------------------------
 
-[![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benbushman98)](https://github.com/anuraghazra/github-readme-stats)
-
-### Checkout my profile on WakaTime
-[![wakatime](https://wakatime.com/badge/user/d5bf7d44-40df-44fa-8584-1d216fc91153.svg)](https://wakatime.com/@d5bf7d44-40df-44fa-8584-1d216fc91153)
-
 ### About Me
 - 🌍 I live in Utah, USA
 - 🔭 I’m currently working at Network Providers Inc.
@@ -20,9 +15,13 @@ I started playing with computers when I was 2 years old. Following in the footst
 - 📫 How to reach me: benbushman98@gmail.com
 - ⚡ Fun fact: I love fixing cars.
 
+----------------------------
 
-### Profile Views
-<img src="https://komarev.com/ghpvc/?username=benbushman98&style=flat-square&color=blue" alt=""/>
+[![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benbushman98)](https://github.com/anuraghazra/github-readme-stats)
+
+### Checkout my profile on WakaTime
+[![wakatime](https://wakatime.com/badge/user/d5bf7d44-40df-44fa-8584-1d216fc91153.svg)](https://wakatime.com/@d5bf7d44-40df-44fa-8584-1d216fc91153)
+
 
 ----------------------------
 
