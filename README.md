@@ -19,12 +19,9 @@ I started playing with computers when I was 2 years old. Following in the footst
 
 [![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benbushman98)](https://github.com/anuraghazra/github-readme-stats)
 
-### Checkout my profile on WakaTime
-[![wakatime](https://wakatime.com/badge/user/d5bf7d44-40df-44fa-8584-1d216fc91153.svg)](https://wakatime.com/@d5bf7d44-40df-44fa-8584-1d216fc91153)
-
-
 ----------------------------
 
 ### Languages
 <a href="https://github.com/benbushman98" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbushman98&langs_count=10&layout=compact&title_color=474647&text_color=474647&icon_color=3382ed&bg_color=ffffff&hide_border=false&locale=en&custom_title=" alt="Languages" /></a>
 
+[![wakatime](https://wakatime.com/badge/user/d5bf7d44-40df-44fa-8584-1d216fc91153.svg)](https://wakatime.com/@d5bf7d44-40df-44fa-8584-1d216fc91153)
