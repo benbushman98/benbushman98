@@ -21,7 +21,6 @@ I started playing with computers when I was 2 years old. Following in the footst
 
 ----------------------------
 
-### Languages
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d5bf7d44-40df-44fa-8584-1d216fc91153/887f7b43-f2e2-48af-82d6-ecb7a4429010.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d5bf7d44-40df-44fa-8584-1d216fc91153/0de66cd8-b286-4107-a998-3c4aa21cfbf7.png" /></a>
 
 [![wakatime](https://wakatime.com/badge/user/d5bf7d44-40df-44fa-8584-1d216fc91153.svg)](https://wakatime.com/@d5bf7d44-40df-44fa-8584-1d216fc91153)
