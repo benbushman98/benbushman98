@@ -22,6 +22,6 @@ I started playing with computers when I was 2 years old. Following in the footst
 ----------------------------
 
 ### Languages
-<a href="https://github.com/benbushman98" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbushman98&langs_count=10&layout=compact&title_color=474647&text_color=474647&icon_color=3382ed&bg_color=ffffff&hide_border=false&locale=en&custom_title=" alt="Languages" /></a>
+<figure><embed src="https://wakatime.com/share/@d5bf7d44-40df-44fa-8584-1d216fc91153/a466288c-9639-47aa-a2e7-9f45125ae163.svg"></embed></figure>
 
 [![wakatime](https://wakatime.com/badge/user/d5bf7d44-40df-44fa-8584-1d216fc91153.svg)](https://wakatime.com/@d5bf7d44-40df-44fa-8584-1d216fc91153)
