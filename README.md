@@ -26,6 +26,3 @@ I started playing with computers when I was 2 years old. Following in the footst
 ----------------------------
 
 [![wakatime](https://wakatime.com/badge/user/d5bf7d44-40df-44fa-8584-1d216fc91153.svg)](https://wakatime.com/@d5bf7d44-40df-44fa-8584-1d216fc91153)
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="benjamin-bushman" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/benjamin-bushman?trk=profile-badge">Benjamin Bushman</a></div>
-              <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
