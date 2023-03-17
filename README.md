@@ -12,7 +12,7 @@ I started playing with computers when I was 2 years old. Following in the footst
 - 🌍 I live in Utah, USA
 - 🔭 I’m currently working at Network Providers Inc.
 - 💬 In school working on Full Stack Web Development
-- 📫 How to reach me: benbushman98@gmail.com
+- 📫 How to reach me: admin@benjaminbushman.com
 - ⚡ Fun fact: I love fixing cars.
 
 ----------------------------
