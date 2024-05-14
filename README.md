@@ -16,10 +16,6 @@ I started playing with computers when I was 2 years old. Following in the footst
 
 ----------------------------
 
-[![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benbushman98)](https://github.com/anuraghazra/github-readme-stats)
-
-----------------------------
-
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@d5bf7d44-40df-44fa-8584-1d216fc91153/0de66cd8-b286-4107-a998-3c4aa21cfbf7.png" /></a>
 
 ----------------------------
